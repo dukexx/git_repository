@@ -3,5 +3,3 @@ git is free software
 wawawawa
 gagagaga
 gugugugu
-[dev] deeeeeeeeeeeevo
-bbbbbb
