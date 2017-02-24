@@ -2,5 +2,4 @@ it is a version control system
 git is free software
 wawawawa
 gagagaga
-gggagagag
 
