@@ -1,0 +1,9 @@
+*.class
+
+*.log
+
+*.ctxt
+
+.mtj.tmp/
+
+
